@@ -8,9 +8,9 @@
 
 Een kermis uitbater bedenkt een actie om kermisklanten gratis ritjes op het reuzenrad aan te bieden. Bedenk een oplossing die voor de kermisklant en de uitbater inzicht kan verschaffen tijdens het faciliteren van de gratis ritjes op het reuzenrad!
 
-- Wat is minimaal nodig voor het faciliteren van de gratis ritjes op het reuzenrad?
-- Hoe zou je kunnen bijhouden hoeveel ritjes de kermisklant nog te goed heeft?
 - Hoe zou de uitbater kunnen bijhouden hoeveel ritjes de klant al heeft gemaakt?
+- Hoe zou je kunnen bijhouden hoeveel ritjes de kermisklant nog te goed heeft?
+- Wat is nodig om bij te kunnen houden hoeveel ritjes kermisklanten mogen doen?
 - Een stempelkaart misschien?
 
 ![alt text](images/probleem_omzetten_naar_een_oplossing.png)
